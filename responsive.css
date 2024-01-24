@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+.dark-wrapper {
+    display: inline;
+    margin-left: 2rem;
+}
+
+.dark-section {
+    padding: 30px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.dark-section h2 {
+    font-size: 19px;
+}
+
+.dark-section p {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.60);
+}
+
+ 
+}

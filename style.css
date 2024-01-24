@@ -1,0 +1,47 @@
+.dark-wrapper {
+    display: flex;
+    justify-content: right;
+    margin-top: -208px;
+    z-index: 1;
+    position: relative;
+    margin-left: -45rem;
+}
+
+.dark-section {
+    margin-right: 2rem;
+}
+
+.dark-section p {
+    color: rgba(255, 255, 255, 0.60);
+}
+
+section.hokeyClub {
+    margin-top: 6rem;
+}
+
+
+.ddImage1 {
+    background: url('./Images/2.png');
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: #00000080!important;
+}
+.ddImage1{
+    color: #FFF;
+}
+
+.ddImage2 {
+    background: url('./Images/3.png');
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: #00000080!important;
+}
+.ddImage3 {
+    background: url('./Images/4.png');
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: #00000080!important;
+}
